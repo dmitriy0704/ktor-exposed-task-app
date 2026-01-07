@@ -1,6 +1,6 @@
 package com.example
 
-import com.example.model.FakeTaskRepository
+import com.example.FakeTaskRepository
 import com.example.model.Priority
 import com.example.model.Task
 import io.ktor.client.call.*

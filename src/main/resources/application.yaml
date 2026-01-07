@@ -5,3 +5,8 @@ ktor:
   deployment:
     port: 9292
     host: localhost
+storage:
+  driverClassName: "org.postgresql.Driver"
+  jdbcURL: "jdbc:postgresql://localhost:5432/ktor"
+  user: "postgres"
+  password: "dv9899"
